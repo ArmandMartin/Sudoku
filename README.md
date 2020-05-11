@@ -3,6 +3,9 @@ Sudoku game made using react and a sudoku puzzle generator/solver(https://github
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## View it on github pages
+http://ArmandMartin.github.io/Sudoku
+
 ## Starting the app
 Navigate to folder then run:
 ```bash
