@@ -17,3 +17,6 @@ npm start
 ```
 
 The projct will be run on [http://localhost:3000](http://localhost:3000).
+
+## Try it through github pages
+https://armandmartin.github.io/Sudoku/
